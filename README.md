@@ -14,6 +14,6 @@ This repository contains the code for the project where I implemented a geograph
 - Population information - <a href = "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland"> ONS mid-year estimates </a>.
 
 
-## R code
+## R Script
 
 Note: some of the data was processed and cleaned outside of R, so the reader will not be able to copy + paste and run the code as it is seen. The purpose of the code is to guide reader into how the analysis was conducted. Instructions are provided to instruct the reader what to do where code is unavailable. 
